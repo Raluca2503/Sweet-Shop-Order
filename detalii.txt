@@ -1,0 +1,3 @@
+Mediu de dezvoltare: Eclipse
+Detalii de configurare: pentru a rula corespunzator
+			Run Configurations(din InterfataJ): main->RunMainTort
